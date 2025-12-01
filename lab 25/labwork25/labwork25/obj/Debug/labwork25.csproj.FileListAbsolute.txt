@@ -1,0 +1,10 @@
+C:\Temp\!Students\!!!ИСПП-43\lab 25\labwork25\labwork25\bin\Debug\labwork25.exe.config
+C:\Temp\!Students\!!!ИСПП-43\lab 25\labwork25\labwork25\bin\Debug\labwork25.exe
+C:\Temp\!Students\!!!ИСПП-43\lab 25\labwork25\labwork25\bin\Debug\labwork25.pdb
+C:\Temp\!Students\!!!ИСПП-43\lab 25\labwork25\labwork25\obj\Debug\labwork25.csproj.AssemblyReference.cache
+C:\Temp\!Students\!!!ИСПП-43\lab 25\labwork25\labwork25\obj\Debug\labwork25.Form1.resources
+C:\Temp\!Students\!!!ИСПП-43\lab 25\labwork25\labwork25\obj\Debug\labwork25.Properties.Resources.resources
+C:\Temp\!Students\!!!ИСПП-43\lab 25\labwork25\labwork25\obj\Debug\labwork25.csproj.GenerateResource.cache
+C:\Temp\!Students\!!!ИСПП-43\lab 25\labwork25\labwork25\obj\Debug\labwork25.csproj.CoreCompileInputs.cache
+C:\Temp\!Students\!!!ИСПП-43\lab 25\labwork25\labwork25\obj\Debug\labwork25.exe
+C:\Temp\!Students\!!!ИСПП-43\lab 25\labwork25\labwork25\obj\Debug\labwork25.pdb

@@ -1,0 +1,10 @@
+C:\Temp\!Students\!!!ИСПП-43\lab 25\lab 25\lab 25\obj\Debug\lab 25.csproj.AssemblyReference.cache
+C:\Temp\!Students\!!!ИСПП-43\lab 25\lab 25\lab 25\obj\Debug\lab_25.Properties.Resources.resources
+C:\Temp\!Students\!!!ИСПП-43\lab 25\lab 25\lab 25\obj\Debug\lab 25.csproj.GenerateResource.cache
+C:\Temp\!Students\!!!ИСПП-43\lab 25\lab 25\lab 25\obj\Debug\lab 25.csproj.CoreCompileInputs.cache
+C:\Temp\!Students\!!!ИСПП-43\lab 25\lab 25\lab 25\bin\Debug\lab 25.exe.config
+C:\Temp\!Students\!!!ИСПП-43\lab 25\lab 25\lab 25\bin\Debug\lab 25.exe
+C:\Temp\!Students\!!!ИСПП-43\lab 25\lab 25\lab 25\bin\Debug\lab 25.pdb
+C:\Temp\!Students\!!!ИСПП-43\lab 25\lab 25\lab 25\obj\Debug\lab 25.exe
+C:\Temp\!Students\!!!ИСПП-43\lab 25\lab 25\lab 25\obj\Debug\lab 25.pdb
+C:\Temp\!Students\!!!ИСПП-43\lab 25\lab 25\lab 25\obj\Debug\AgeAndSphereCalculator.Form1.resources
