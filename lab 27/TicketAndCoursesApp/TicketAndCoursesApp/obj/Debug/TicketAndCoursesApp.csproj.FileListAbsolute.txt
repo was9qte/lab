@@ -1,0 +1,13 @@
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\bin\Debug\TicketAndCoursesApp.exe.config
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\bin\Debug\TicketAndCoursesApp.exe
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\bin\Debug\TicketAndCoursesApp.pdb
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\obj\Debug\TicketAndCoursesApp.csproj.AssemblyReference.cache
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\obj\Debug\TicketAndCoursesApp.MainForm.resources
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\obj\Debug\TicketAndCoursesApp.Properties.Resources.resources
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\obj\Debug\TicketAndCoursesApp.csproj.GenerateResource.cache
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\obj\Debug\TicketAndCoursesApp.csproj.CoreCompileInputs.cache
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\obj\Debug\TicketAndCoursesApp.exe
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\obj\Debug\TicketAndCoursesApp.pdb
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\obj\Debug\TicketAndCoursesApp.ComboBox.resources
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\obj\Debug\TicketAndCoursesApp.CheckedListBox.resources
+C:\Temp\!Students\!!!ИСПП-43\lab 27\TicketAndCoursesApp\TicketAndCoursesApp\obj\Debug\TicketAndCoursesApp.ListBox.resources
