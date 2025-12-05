@@ -1,0 +1,10 @@
+C:\Users\221\!students\!!!ИСПП-43\lab 32\labwork\labwork\bin\Debug\labwork.exe.config
+C:\Users\221\!students\!!!ИСПП-43\lab 32\labwork\labwork\bin\Debug\labwork.exe
+C:\Users\221\!students\!!!ИСПП-43\lab 32\labwork\labwork\bin\Debug\labwork.pdb
+C:\Users\221\!students\!!!ИСПП-43\lab 32\labwork\labwork\obj\Debug\labwork.csproj.AssemblyReference.cache
+C:\Users\221\!students\!!!ИСПП-43\lab 32\labwork\labwork\obj\Debug\labwork.Properties.Resources.resources
+C:\Users\221\!students\!!!ИСПП-43\lab 32\labwork\labwork\obj\Debug\labwork.csproj.GenerateResource.cache
+C:\Users\221\!students\!!!ИСПП-43\lab 32\labwork\labwork\obj\Debug\labwork.csproj.CoreCompileInputs.cache
+C:\Users\221\!students\!!!ИСПП-43\lab 32\labwork\labwork\obj\Debug\labwork.exe
+C:\Users\221\!students\!!!ИСПП-43\lab 32\labwork\labwork\obj\Debug\labwork.pdb
+C:\Users\221\!students\!!!ИСПП-43\lab 32\labwork\labwork\obj\Debug\labwork.Calculate.resources
