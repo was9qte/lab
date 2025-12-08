@@ -1,0 +1,13 @@
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\bin\Debug\LabWork.exe.config
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\bin\Debug\LabWork.exe
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\bin\Debug\LabWork.pdb
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\obj\Debug\LabWork.csproj.AssemblyReference.cache
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\obj\Debug\LabWork.Form1.resources
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\obj\Debug\LabWork.LoginForm.resources
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\obj\Debug\LabWork.NotesForm.resources
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\obj\Debug\LabWork.Properties.Resources.resources
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\obj\Debug\LabWork.csproj.GenerateResource.cache
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\obj\Debug\LabWork.csproj.CoreCompileInputs.cache
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\obj\Debug\LabWork.exe
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\obj\Debug\LabWork.pdb
+C:\Users\221\!students\!!!ИСПП-43\lab 33\LabWork\LabWork\obj\Debug\LabWork.PurchasesForm.resources
