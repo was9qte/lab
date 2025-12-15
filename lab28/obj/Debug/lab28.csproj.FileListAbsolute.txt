@@ -1,0 +1,15 @@
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\bin\Debug\lab28.exe.config
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\bin\Debug\lab28.exe
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\bin\Debug\lab28.pdb
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\obj\Debug\lab28.csproj.AssemblyReference.cache
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\obj\Debug\lab28.Form1.resources
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\obj\Debug\lab28.Properties.Resources.resources
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\obj\Debug\lab28.csproj.GenerateResource.cache
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\obj\Debug\lab28.csproj.CoreCompileInputs.cache
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\obj\Debug\lab28.exe
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\obj\Debug\lab28.pdb
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\obj\Debug\lab28.Form2.resources
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\obj\Debug\lab28.Form3.resources
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\obj\Debug\lab28.MainForm.resources
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\obj\Debug\lab28.dataGridForm1.resources
+C:\Temp\!ГРУППЫ\!!!ISPP-43\lab28\obj\Debug\lab28.DataGridForm2.resources
