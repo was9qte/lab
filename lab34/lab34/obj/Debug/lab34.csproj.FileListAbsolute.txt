@@ -1,0 +1,10 @@
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Проекты\lab34\lab34\obj\Debug\lab34.csproj.AssemblyReference.cache
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Проекты\lab34\lab34\obj\Debug\lab34.Form1.resources
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Проекты\lab34\lab34\obj\Debug\lab34.Properties.Resources.resources
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Проекты\lab34\lab34\obj\Debug\lab34.csproj.GenerateResource.cache
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Проекты\lab34\lab34\obj\Debug\lab34.csproj.CoreCompileInputs.cache
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Проекты\lab34\lab34\bin\Debug\lab34.exe.config
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Проекты\lab34\lab34\bin\Debug\lab34.exe
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Проекты\lab34\lab34\bin\Debug\lab34.pdb
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Проекты\lab34\lab34\obj\Debug\lab34.exe
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Проекты\lab34\lab34\obj\Debug\lab34.pdb
